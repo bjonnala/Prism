@@ -1,0 +1,7 @@
+c:\users\rzj\source\repos\Prism\Prism\bin\Debug\Prism.exe.config
+c:\users\rzj\source\repos\Prism\Prism\bin\Debug\Prism.exe
+c:\users\rzj\source\repos\Prism\Prism\bin\Debug\Prism.pdb
+c:\users\rzj\source\repos\Prism\Prism\obj\Debug\Prism.csproj.CoreCompileInputs.cache
+c:\users\rzj\source\repos\Prism\Prism\obj\Debug\Prism.exe
+c:\users\rzj\source\repos\Prism\Prism\obj\Debug\Prism.pdb
+c:\users\rzj\source\repos\Prism\Prism\obj\Debug\Prism.csprojAssemblyReference.cache
